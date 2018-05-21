@@ -71,7 +71,8 @@ dependencies {
             "org.apache.commons:commons-compress:1.5",
             "com.github.groovy-wslite:groovy-wslite:1.1.2",
             "net.sf.jopt-simple:jopt-simple:4.4",
-            "org.ini4j:ini4j:0.5.2"
+            "org.ini4j:ini4j:0.5.2",
+            "com.amazonaws:aws-java-sdk-s3:1.11.333"
 
     runtime "org.apache.ivy:ivy:2.3.0"
 
